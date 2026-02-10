@@ -16,7 +16,7 @@ check-status = Kiểm tra
 item-mp = Nhiều người chơi
 item-mp-sub = Bật tính năng nhiều người chơi
 item-mp-addr = Máy chủ nhiều người chơi
-item-mp-addr-sub = Địa chỉ máy chủ, 'host:port'
+item-mp-addr-sub = Kết nối đến một máy chủ nhiều người chơi
 item-mp-addr-invalid = Địa chỉ không hợp lệ
 item-lowq = Độ phân giải thấp
 item-lowq-sub = Giảm chất lượng giao diện để tăng hiệu suất
@@ -26,11 +26,11 @@ item-cache-size = Kích thước bộ nhớ đệm: { $size }
 item-clear-cache-btn = Xóa
 item-cache-cleared = Đã xóa bộ nhớ đệm
 item-insecure = Kết nối không an toàn
-item-insecure-sub = Cho phép thiết bị cũ sử dụng chức năng trực tuyến, nhưng làm kết nối của bạn không an toàn!
+item-insecure-sub = Cho phép thiết bị cũ sử dụng chức năng trực tuyến.
 item-enable-anys = Bật Anys
 item-enable-anys-sub = Sử dụng cổng Anys để nâng cao chất lượng kết nối
 item-anys-gateway = Cổng Anys
-item-anys-gateway-sub = Sử dụng một cổng Anys tùy chỉnh
+item-anys-gateway-sub = Sử dụng cổng Anys tùy chỉnh
 item-anys-gateway-invalid = Địa chỉ không hợp lệ
 
 item-adjust = Tự động điều chỉnh
@@ -49,12 +49,12 @@ item-opt-sub = Cải thiện hiệu năng, nhưng có thể gây ra một số h
 item-speed = Tốc độ
 item-note-size = Kích thước Note
 
-item-chart-debug = Gỡ lỗi Chart
-item-chart-debug-sub = Hiển thị ID và hướng của Line
-item-touch-debug = Gỡ lỗi chạm
+item-chart-debug = Hiển thị line ID
+item-chart-debug-sub = Hiển thị ID và hướng của line
+item-touch-debug = Hiển thị điểm chạm
 item-touch-debug-sub = Hiển thị điểm chạm khi bạn chạm vào màn hình
 
-load-cali-failed = Không thể tải âm thanh
+load-cali-failed = Không thể tải âm thanh hiệu chỉnh
 
 about-content =
   Phira phiên bản { $version }
